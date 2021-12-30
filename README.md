@@ -13,6 +13,7 @@
 ## Структура скрипта
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 Для хранения базы данных используется [Heroku](https://heroku.com/). Скрипт состоит из нескольких модулей:
 - parser.py - парсинг данных с hh.ru
 - database.py - оболочка для подключения к серверу с базой данных и выполнения query
